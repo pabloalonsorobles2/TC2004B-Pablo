@@ -1,0 +1,22 @@
+
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Pablo Alonso Robles
+Matrícula: A00573454
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Para aprender lo que son los fundamentos del data science
+
+¿Qué espero aprender?
+La lógica para resolver problemas importantes
+
+Herramientas que ya conozco:
+- Firebase       
+- R studio       
+
+Herramientas nuevas para mí:
+- google collab  
+- terminal para mas que descargar librerias
+
