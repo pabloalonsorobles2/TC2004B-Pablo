@@ -5,7 +5,7 @@ Repositorio del curso TC2004B
 # TC2004B - Análisis de Ciencia de Datos
 
 **Nombre:** [Pablo Alonso Robles Nava]  
-**Matrícula:** A0XXXXXXX  
+**Matrícula:** A00573454  
 **Semestre:** Febrero-Junio 2026
 ## Descripción
 
